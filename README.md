@@ -2,8 +2,7 @@
 
 
 
-#   A macro assembler includes a macroinstruction facility so that (parameterized) assembly language 
-    text can be represented by a name, and that name can be used to insert the expanded text into other code
+#   A macro assembler includes a macroinstruction facility so that (parameterized) assembly language text can be represented by a name, and that name can be used to insert the expanded text into other code
     
    
    
